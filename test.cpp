@@ -191,6 +191,7 @@ public:
 int main() {
     ScientificCalculator calculator;
     calculator.runCalculator();
+    cout<<"hello"<<endl;
 
     return 0;
 }
