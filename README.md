@@ -10,7 +10,7 @@ This project involves creating a scientific calculator using C++. The calculator
 
 Features
 **Basic Operations:** Addition, subtraction, multiplication, and division.
-**Advanced Functions:** Number Converter, Operations on Complex numbers
+**Advanced Functions:** Number Converter, Operations on Complex numbers, Solving Equations, Basic Conversions 
 
 **Tools and Libraries**
 **C++:** Programming language used for development.
