@@ -10,7 +10,7 @@ This project involves creating a scientific calculator using C++. The calculator
 
 Features
 **Basic Operations:** Addition, subtraction, multiplication, and division.
-**Advanced Functions:** Power, square root, trigonometric functions (sine, cosine, tangent), logarithms (natural and base 10).
+**Advanced Functions:** Number Converter, Operations on Complex numbers
 
 **Tools and Libraries**
 **C++:** Programming language used for development.
